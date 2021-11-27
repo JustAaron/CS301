@@ -17,6 +17,6 @@ The problem to be solved is answering a given natural question (i.e. a question 
 
 # Experiments
 
-[extractive_qa_1](extractqa_farm1.png)
+![extractive_qa_1](extractqa_farm1.png)
 
 # Conclusion
