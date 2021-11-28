@@ -1,4 +1,4 @@
-# CS301-101 Project Proposal
+# CS301-101 Project Proposal, Aaron Lee
 
 # What is the problem that you will be investigating? Why is it interesting? 
 A common use case for search engines such as Google is to receive answers to questions. These questions will often be given in the form of natural language. The problem is that computers do not read information in the same way as humans do, and so the goal is to transform the question into one that a machine would be able to understand. Natural Language Processing (NLP) is interesting as it can be used for use cases such as a Q&A search system. A Q&A system can be more complicated than some other forms of NLP problems because natural language must be processed for both the question and the answer. The sentiment of the question must be translated to know what the topic of interest is. The sentiment of any articles that are related to this topic must also be translated.
